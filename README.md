@@ -16,7 +16,7 @@ Spring WebFlux / WebClient · REST API
 
 ## Selected Projects
 
-### 🍚 혼밥멈춰
+### 🍚 [혼밥멈춰](https://github.com/thkim610/honbab-mumcha)
 Spring Boot 기반 식당 예약·매칭 팀 프로젝트
 
 - 인증/인가 기능 구현
@@ -24,15 +24,16 @@ Spring Boot 기반 식당 예약·매칭 팀 프로젝트
 - 입력값 검증
 - DB 설계 참여
 
-### 🚚 Delivery API
+### 🚚 [Delivery API](https://github.com/thkim610/DeliveryApi_project)
 Spring Boot / JPA 기반 주문·배달 API 프로젝트
 
 - 주문 관련 API 구현
 - 데이터 조회 오류 분석 및 수정
 - Issue / PR 기반 작업
 
-## Current Interests
+## Experience
 
-- 데이터 정합성
-- 외부 시스템 연동
-- 유지보수 가능한 구조 설계
+- Java / Spring Boot 기반 웹 서비스 개발
+- 외부 시스템 REST 연동
+- 결재/문서/원가/안전관리 도메인 개발
+- 데이터 정합성 및 운영 예외 처리
